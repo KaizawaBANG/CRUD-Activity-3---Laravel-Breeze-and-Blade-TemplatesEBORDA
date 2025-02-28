@@ -11,7 +11,7 @@
     style="backdrop-filter: blur(14px);">
     <div class="bg-white rounded p-6">
         <h2 class="text-xl border-b pb-2 mb-2">Confirm Action</h2>
-        <p>Are you sure you want to delete this chirp?</p>
+        <p>Do you want to Delete this?</p>
         <div class="flex justify-end mt-4 gap-4">
             <x-secondary-button _="on click trigger closeModal" >Cancel</x-secondary-button>
             <form>
